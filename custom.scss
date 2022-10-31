@@ -1,0 +1,9 @@
+$primary:tomato;
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    color: black;
+}
+@import "./node_modules/bootstrap/scss/bootstrap.scss"
